@@ -1,4 +1,4 @@
-# Kiểm tra xem có tồn tại kết nối giữa hai đỉnh (nodes) trong một đồ thị hay không ? 
+# Kiểm tra xem có tồn tại kết nối giữa hai đỉnh (vertex) trong một đồ thị hay không ? 
 
 - Thuật toán Depth-First Search (DFS):
   + Bắt đầu từ đỉnh xuất phát, thực hiện DFS.
