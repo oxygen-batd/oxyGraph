@@ -1,6 +1,5 @@
-# Maths
+# Kiểm tra xem có tồn tại kết nối giữa hai đỉnh (nodes) trong một đồ thị hay không là một vấn đề cơ bản trong lý thuyết đồ thị
 
-1. Việc kiểm tra xem có tồn tại kết nối giữa hai đỉnh (nodes) trong một đồ thị hay không là một vấn đề cơ bản trong lý thuyết đồ thị
 - Thuật toán Depth-First Search (DFS):
   + Bắt đầu từ đỉnh xuất phát, thực hiện DFS.
   + Đánh dấu điểm đã ghé thăm
